@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    image-orientation: inherit
+}
+img{
+    width:400px;
+    height:400px;
+    align-items: center;
+    
+
+}
+ul{
+    list-style-type: none;
+}
